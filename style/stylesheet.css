@@ -1,0 +1,10 @@
+
+#ione{
+    height: 40px;
+    width: 40px;
+    float: left;
+    background-image: url(images/image001.jpg);
+        background-repeat: no-repeat;
+        background-size: 40px 40px;
+        
+}
